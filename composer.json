@@ -17,8 +17,9 @@
     "homepage": "https://github.com/BombenProdukt/laravel-collection-powerpack",
     "require": {
         "php": "^8.2",
+        "bombenprodukt/laravel-package-powerpack": "^1.0",
         "illuminate/contracts": "^10.0",
-        "bombenprodukt/laravel-package-powerpack": "^1.0"
+        "spatie/laravel-collection-macros": "^7.12"
     },
     "require-dev": {
         "ergebnis/composer-normalize": "^2.2",
