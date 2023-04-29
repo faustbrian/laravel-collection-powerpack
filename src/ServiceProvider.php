@@ -4,10 +4,10 @@ declare(strict_types=1);
 
 namespace BombenProdukt\CollectionPowerPack;
 
-use Illuminate\Support\Str;
+use BombenProdukt\PackagePowerPack\Package\AbstractServiceProvider;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Lang;
-use BombenProdukt\PackagePowerPack\Package\AbstractServiceProvider;
+use Illuminate\Support\Str;
 
 final class ServiceProvider extends AbstractServiceProvider
 {
