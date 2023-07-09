@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/laravel-collection-powerpack/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/laravel-collection-powerpack" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/laravel-collection-powerpack">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/laravel-collection-powerpack" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/laravel-collection-powerpack">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/laravel-collection-powerpack" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/laravel-collection-powerpack">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/laravel-collection-powerpack" alt="License" />
-    </a>
-</p>
 
 ## About Laravel Collection PowerPack
 
